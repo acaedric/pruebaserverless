@@ -1,0 +1,12 @@
+
+  {
+    "body": "{\"nombres\":\"Fernando\",\"apellidos\":\"Vásquez Montes\"}",
+    "pathParameters": {
+      "id": "d184a6a0-5493-11ec-9e90-f30070bf49d2"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
