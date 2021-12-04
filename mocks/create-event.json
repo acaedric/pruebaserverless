@@ -1,8 +1,8 @@
   {
-    "body": "{\"nombres\":\"Fernando Manuel\",\"apellidos\":\"Vásquez Rubio\"}",
+    "body": "{\"nombres\":\"Sebastian\",\"apellidos\":\"Cosme Deneyra\"}",
     "requestContext": {
       "identity": {
-        "cognitoIdentityId": "USER-SUB-1234"
+        "cognitoIdentityId": "USER-PRUEBA-1"
       }
     }
   }
