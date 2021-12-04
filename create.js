@@ -7,8 +7,7 @@ export const main = handler(async (event, context) => {
   const params = {
     TableName: process.env.tableName,
     Item: {
-      // The attributes of the item to be created
-      userId: event.requestContext.identity.cognitoIdentityId, // The id of the author
+      userId: "USER-PRUEBA-1", //userId: event.requestContext.identity.cognitoIdentityId,
       noteId: uuid.v1(), // A unique uuid
       nombres: data.nombres, // Parsed from request body
       apellidos: data.apellidos, // Parsed from request body
